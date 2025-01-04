@@ -1,0 +1,486 @@
+Instance ID,Feature_1,Feature_2,Feature_3,Attack Type,Dataset Type
+UI_1,200.91.115.23,Port 8080,Port scan,Outside,Public
+UI_2,58.145.210.89,Port 80,Data exfile,Inside,Crowdsourced
+UI_3,94.75.173.176,Port 21,Data exfile,Inside,Public
+UI_4,180.157.112.188,Port 80,Phishing,Outside,Crowdsourced
+UI_5,220.234.104.197,Port 443,Phishing,Outside,Public
+UI_6,188.53.79.152,Port 22,DDoS attack,Outside,Crowdsourced
+UI_7,168.208.181.238,Port 22,Data exfile,Inside,Public
+UI_8,70.8.184.191,Port 80,Phishing,Outside,Crowdsourced
+UI_9,58.88.29.221,Port 21,Privilege escalation,Inside,Public
+UI_10,150.240.243.6,Port 22,Data exfile,Inside,Crowdsourced
+UI_11,233.181.59.14,Port 21,Data exfile,Inside,Public
+UI_12,69.86.159.23,Port 443,Normal,None,Crowdsourced
+UI_13,195.109.138.54,Port 443,Phishing,Outside,Public
+UI_14,82.158.43.138,Port 443,Data leak,Inside,Crowdsourced
+UI_15,203.68.220.205,Port 22,Anomaly,Inside,Public
+UI_16,53.222.138.114,Port 22,Normal,None,Crowdsourced
+UI_17,28.231.73.195,Port 8080,Traffic spike,Outside,Public
+UI_18,24.105.79.74,Port 21,Phishing,Outside,Crowdsourced
+UI_19,71.182.249.72,Port 443,Brute force,Outside,Public
+UI_20,48.215.90.187,Port 80,Normal,None,Crowdsourced
+UI_21,97.89.83.82,Port 21,Data leak,Inside,Public
+UI_22,102.68.246.42,Port 80,Traffic spike,Outside,Crowdsourced
+UI_23,84.194.161.44,Port 80,Data exfile,Inside,Public
+UI_24,14.121.244.133,Port 21,DDoS attack,Outside,Crowdsourced
+UI_25,193.98.133.93,Port 80,Traffic spike,Outside,Public
+UI_26,58.90.125.79,Port 22,Anomaly,Inside,Crowdsourced
+UI_27,87.55.83.79,Port 21,Privilege escalation,Inside,Public
+UI_28,39.222.213.207,Port 8080,Port scan,Outside,Crowdsourced
+UI_29,68.61.210.46,Port 443,Brute force,Outside,Public
+UI_30,253.36.240.203,Port 80,DDoS attack,Outside,Crowdsourced
+UI_31,163.30.6.192,Port 21,Phishing,Outside,Public
+UI_32,148.105.101.66,Port 22,Normal,None,Crowdsourced
+UI_33,113.73.50.156,Port 443,Data leak,Inside,Public
+UI_34,121.184.201.198,Port 80,DDoS attack,Outside,Crowdsourced
+UI_35,251.122.95.224,Port 22,Data leak,Inside,Public
+UI_36,82.28.25.138,Port 8080,Brute force,Outside,Crowdsourced
+UI_37,244.103.88.156,Port 8080,Normal,None,Public
+UI_38,165.243.241.177,Port 443,Data leak,Inside,Crowdsourced
+UI_39,75.82.4.133,Port 21,Data exfile,Inside,Public
+UI_40,129.233.228.1,Port 443,Brute force,Outside,Crowdsourced
+UI_41,189.56.218.230,Port 21,Data leak,Inside,Public
+UI_42,63.101.191.230,Port 21,Anomaly,Inside,Crowdsourced
+UI_43,238.102.88.11,Port 80,Normal,None,Public
+UI_44,226.45.232.121,Port 21,Data exfile,Inside,Crowdsourced
+UI_45,68.40.9.73,Port 21,Port scan,Outside,Public
+UI_46,160.151.79.93,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_47,111.8.44.183,Port 22,Data leak,Inside,Public
+UI_48,145.255.37.181,Port 22,Traffic spike,Outside,Crowdsourced
+UI_49,152.209.82.225,Port 22,Brute force,Outside,Public
+UI_50,217.42.222.91,Port 21,Traffic spike,Outside,Crowdsourced
+UI_51,61.21.217.213,Port 21,Data exfile,Inside,Public
+UI_52,176.26.179.96,Port 21,Brute force,Outside,Crowdsourced
+UI_53,206.163.60.56,Port 8080,Traffic spike,Outside,Public
+UI_54,21.156.211.149,Port 443,Port scan,Outside,Crowdsourced
+UI_55,108.44.243.138,Port 80,Data exfile,Inside,Public
+UI_56,244.26.220.140,Port 80,Data exfile,Inside,Crowdsourced
+UI_57,121.7.254.29,Port 21,Anomaly,Inside,Public
+UI_58,112.115.184.120,Port 443,Traffic spike,Outside,Crowdsourced
+UI_59,175.43.31.95,Port 22,Phishing,Outside,Public
+UI_60,1.182.122.22,Port 21,Phishing,Outside,Crowdsourced
+UI_61,66.130.247.30,Port 22,Data exfile,Inside,Public
+UI_62,174.44.192.42,Port 21,Normal,None,Crowdsourced
+UI_63,106.49.49.46,Port 22,DDoS attack,Outside,Public
+UI_64,244.128.94.68,Port 22,DDoS attack,Outside,Crowdsourced
+UI_65,62.109.10.252,Port 80,Privilege escalation,Inside,Public
+UI_66,91.121.166.147,Port 22,Brute force,Outside,Crowdsourced
+UI_67,128.13.161.120,Port 8080,Normal,None,Public
+UI_68,66.117.138.89,Port 22,Anomaly,Inside,Crowdsourced
+UI_69,206.167.49.4,Port 22,Traffic spike,Outside,Public
+UI_70,74.197.87.104,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_71,129.47.175.124,Port 21,DDoS attack,Outside,Public
+UI_72,64.219.47.218,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_73,188.34.176.254,Port 443,Normal,None,Public
+UI_74,228.160.67.74,Port 80,Phishing,Outside,Crowdsourced
+UI_75,172.118.223.11,Port 22,Traffic spike,Outside,Public
+UI_76,191.202.171.163,Port 443,DDoS attack,Outside,Crowdsourced
+UI_77,207.222.212.54,Port 8080,Phishing,Outside,Public
+UI_78,6.52.146.200,Port 443,Data exfile,Inside,Crowdsourced
+UI_79,143.91.186.11,Port 22,Traffic spike,Outside,Public
+UI_80,94.185.90.127,Port 80,Privilege escalation,Inside,Crowdsourced
+UI_81,19.190.160.157,Port 22,Brute force,Outside,Public
+UI_82,253.17.69.48,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_83,70.188.143.198,Port 80,Data exfile,Inside,Public
+UI_84,217.159.88.37,Port 22,Traffic spike,Outside,Crowdsourced
+UI_85,156.61.56.159,Port 22,DDoS attack,Outside,Public
+UI_86,42.186.90.11,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_87,87.10.93.34,Port 22,Anomaly,Inside,Public
+UI_88,222.161.55.118,Port 21,Brute force,Outside,Crowdsourced
+UI_89,23.68.44.118,Port 22,DDoS attack,Outside,Public
+UI_90,163.31.50.168,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_91,137.162.104.242,Port 80,Data leak,Inside,Public
+UI_92,6.59.235.204,Port 8080,Normal,None,Crowdsourced
+UI_93,70.12.21.91,Port 443,Traffic spike,Outside,Public
+UI_94,229.188.59.36,Port 21,Data leak,Inside,Crowdsourced
+UI_95,168.62.10.191,Port 22,Data exfile,Inside,Public
+UI_96,125.156.2.143,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_97,61.90.224.182,Port 8080,Privilege escalation,Inside,Public
+UI_98,229.25.49.219,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_99,40.55.56.204,Port 21,Privilege escalation,Inside,Public
+UI_100,186.207.98.150,Port 21,Anomaly,Inside,Crowdsourced
+UI_101,33.41.85.69,Port 8080,Traffic spike,Outside,Public
+UI_102,142.245.189.135,Port 21,Phishing,Outside,Crowdsourced
+UI_103,211.218.230.232,Port 8080,Phishing,Outside,Public
+UI_104,151.26.53.78,Port 8080,DDoS attack,Outside,Crowdsourced
+UI_105,206.111.166.154,Port 443,Traffic spike,Outside,Public
+UI_106,155.30.28.255,Port 22,Brute force,Outside,Crowdsourced
+UI_107,179.160.47.195,Port 443,Privilege escalation,Inside,Public
+UI_108,128.179.166.76,Port 22,Privilege escalation,Inside,Crowdsourced
+UI_109,241.86.194.59,Port 22,DDoS attack,Outside,Public
+UI_110,130.93.122.109,Port 80,DDoS attack,Outside,Crowdsourced
+UI_111,195.78.30.215,Port 22,Traffic spike,Outside,Public
+UI_112,127.183.202.222,Port 22,Data exfile,Inside,Crowdsourced
+UI_113,179.209.35.221,Port 8080,Anomaly,Inside,Public
+UI_114,4.4.124.91,Port 22,Port scan,Outside,Crowdsourced
+UI_115,182.76.129.184,Port 21,Data leak,Inside,Public
+UI_116,232.97.243.25,Port 21,DDoS attack,Outside,Crowdsourced
+UI_117,22.174.228.22,Port 22,Normal,None,Public
+UI_118,123.194.198.225,Port 8080,Anomaly,Inside,Crowdsourced
+UI_119,243.107.195.176,Port 443,Phishing,Outside,Public
+UI_120,1.32.252.242,Port 21,Phishing,Outside,Crowdsourced
+UI_121,206.138.28.216,Port 443,Anomaly,Inside,Public
+UI_122,197.180.223.86,Port 80,Phishing,Outside,Crowdsourced
+UI_123,140.88.90.19,Port 443,Port scan,Outside,Public
+UI_124,228.225.110.115,Port 443,Data leak,Inside,Crowdsourced
+UI_125,237.190.87.34,Port 443,Brute force,Outside,Public
+UI_126,123.171.140.120,Port 8080,Data leak,Inside,Crowdsourced
+UI_127,18.250.141.23,Port 443,Port scan,Outside,Public
+UI_128,65.159.80.126,Port 80,Port scan,Outside,Crowdsourced
+UI_129,63.137.234.40,Port 8080,Data exfile,Inside,Public
+UI_130,193.205.128.246,Port 8080,Anomaly,Inside,Crowdsourced
+UI_131,191.130.74.244,Port 22,Privilege escalation,Inside,Public
+UI_132,212.90.165.248,Port 22,Anomaly,Inside,Crowdsourced
+UI_133,22.84.229.200,Port 21,Privilege escalation,Inside,Public
+UI_134,176.11.186.95,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_135,97.9.58.75,Port 80,Data exfile,Inside,Public
+UI_136,134.166.22.181,Port 443,Port scan,Outside,Crowdsourced
+UI_137,59.111.124.113,Port 443,Privilege escalation,Inside,Public
+UI_138,133.251.178.246,Port 443,Data exfile,Inside,Crowdsourced
+UI_139,29.79.107.131,Port 21,Normal,None,Public
+UI_140,36.225.19.219,Port 8080,DDoS attack,Outside,Crowdsourced
+UI_141,182.251.14.233,Port 8080,Traffic spike,Outside,Public
+UI_142,28.92.134.65,Port 21,Brute force,Outside,Crowdsourced
+UI_143,233.42.48.59,Port 21,Anomaly,Inside,Public
+UI_144,251.117.178.35,Port 443,Port scan,Outside,Crowdsourced
+UI_145,44.232.67.120,Port 21,Normal,None,Public
+UI_146,26.199.83.223,Port 21,Privilege escalation,Inside,Crowdsourced
+UI_147,77.22.181.119,Port 21,Normal,None,Public
+UI_148,186.126.82.46,Port 80,Brute force,Outside,Crowdsourced
+UI_149,163.31.146.14,Port 8080,Anomaly,Inside,Public
+UI_150,84.22.174.189,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_151,30.137.235.210,Port 8080,Brute force,Outside,Public
+UI_152,7.94.59.242,Port 22,Normal,None,Crowdsourced
+UI_153,97.142.76.103,Port 22,DDoS attack,Outside,Public
+UI_154,230.112.26.93,Port 443,Traffic spike,Outside,Crowdsourced
+UI_155,33.130.187.184,Port 21,Port scan,Outside,Public
+UI_156,38.233.71.242,Port 8080,Brute force,Outside,Crowdsourced
+UI_157,132.132.53.63,Port 80,Phishing,Outside,Public
+UI_158,184.135.98.171,Port 21,DDoS attack,Outside,Crowdsourced
+UI_159,125.10.30.207,Port 80,Brute force,Outside,Public
+UI_160,104.158.65.136,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_161,238.86.30.215,Port 22,Data leak,Inside,Public
+UI_162,30.204.46.236,Port 8080,Port scan,Outside,Crowdsourced
+UI_163,36.221.113.142,Port 21,Data leak,Inside,Public
+UI_164,160.193.45.202,Port 22,Phishing,Outside,Crowdsourced
+UI_165,158.65.76.126,Port 21,Privilege escalation,Inside,Public
+UI_166,82.59.205.145,Port 80,Traffic spike,Outside,Crowdsourced
+UI_167,94.103.94.206,Port 443,Anomaly,Inside,Public
+UI_168,81.99.129.156,Port 80,Normal,None,Crowdsourced
+UI_169,70.90.201.220,Port 443,DDoS attack,Outside,Public
+UI_170,149.192.169.106,Port 80,Phishing,Outside,Crowdsourced
+UI_171,29.63.174.70,Port 21,Normal,None,Public
+UI_172,171.57.84.94,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_173,183.23.112.143,Port 80,Traffic spike,Outside,Public
+UI_174,207.122.164.94,Port 8080,DDoS attack,Outside,Crowdsourced
+UI_175,125.251.51.169,Port 22,Brute force,Outside,Public
+UI_176,202.36.85.168,Port 22,Data leak,Inside,Crowdsourced
+UI_177,203.8.44.18,Port 22,Anomaly,Inside,Public
+UI_178,19.243.92.171,Port 80,Anomaly,Inside,Crowdsourced
+UI_179,89.201.45.254,Port 80,Port scan,Outside,Public
+UI_180,191.119.196.201,Port 21,Brute force,Outside,Crowdsourced
+UI_181,138.30.181.140,Port 80,Brute force,Outside,Public
+UI_182,192.255.33.168,Port 443,Anomaly,Inside,Crowdsourced
+UI_183,26.40.193.249,Port 22,Brute force,Outside,Public
+UI_184,63.203.55.12,Port 22,Data exfile,Inside,Crowdsourced
+UI_185,75.246.115.232,Port 8080,Privilege escalation,Inside,Public
+UI_186,37.34.46.215,Port 22,Data exfile,Inside,Crowdsourced
+UI_187,184.55.193.241,Port 21,Phishing,Outside,Public
+UI_188,88.67.144.204,Port 8080,Phishing,Outside,Crowdsourced
+UI_189,200.200.79.103,Port 80,Brute force,Outside,Public
+UI_190,187.34.124.231,Port 443,Port scan,Outside,Crowdsourced
+UI_191,105.125.84.111,Port 80,Brute force,Outside,Public
+UI_192,47.191.235.150,Port 443,Data leak,Inside,Crowdsourced
+UI_193,100.131.87.100,Port 80,Normal,None,Public
+UI_194,154.81.130.74,Port 21,Traffic spike,Outside,Crowdsourced
+UI_195,235.107.208.125,Port 21,Port scan,Outside,Public
+UI_196,146.40.144.198,Port 80,Brute force,Outside,Crowdsourced
+UI_197,38.37.232.91,Port 443,Phishing,Outside,Public
+UI_198,114.54.241.131,Port 80,Data exfile,Inside,Crowdsourced
+UI_199,114.84.137.247,Port 443,Normal,None,Public
+UI_200,65.102.170.161,Port 21,Traffic spike,Outside,Crowdsourced
+UI_201,66.138.58.126,Port 22,Phishing,Outside,Public
+UI_202,38.119.66.6,Port 80,Phishing,Outside,Crowdsourced
+UI_203,191.255.63.35,Port 80,Port scan,Outside,Public
+UI_204,155.108.208.219,Port 22,Normal,None,Crowdsourced
+UI_205,20.25.4.124,Port 8080,Phishing,Outside,Public
+UI_206,160.180.90.55,Port 21,Anomaly,Inside,Crowdsourced
+UI_207,233.75.241.144,Port 80,Data leak,Inside,Public
+UI_208,225.37.172.64,Port 443,Data exfile,Inside,Crowdsourced
+UI_209,124.225.160.213,Port 21,Privilege escalation,Inside,Public
+UI_210,156.238.131.148,Port 21,Normal,None,Crowdsourced
+UI_211,59.37.173.39,Port 443,Traffic spike,Outside,Public
+UI_212,128.102.158.244,Port 21,Normal,None,Crowdsourced
+UI_213,130.244.185.187,Port 22,Anomaly,Inside,Public
+UI_214,191.147.144.92,Port 22,Traffic spike,Outside,Crowdsourced
+UI_215,179.97.153.144,Port 22,Traffic spike,Outside,Public
+UI_216,255.149.125.174,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_217,10.70.185.221,Port 22,Traffic spike,Outside,Public
+UI_218,140.120.166.77,Port 443,Brute force,Outside,Crowdsourced
+UI_219,181.140.22.118,Port 8080,Anomaly,Inside,Public
+UI_220,248.174.184.211,Port 443,Brute force,Outside,Crowdsourced
+UI_221,211.4.23.107,Port 21,Traffic spike,Outside,Public
+UI_222,212.152.174.17,Port 443,Traffic spike,Outside,Crowdsourced
+UI_223,20.87.88.45,Port 80,Brute force,Outside,Public
+UI_224,94.61.34.92,Port 22,Anomaly,Inside,Crowdsourced
+UI_225,102.10.3.14,Port 21,Traffic spike,Outside,Public
+UI_226,160.164.198.243,Port 80,Phishing,Outside,Crowdsourced
+UI_227,38.180.232.76,Port 21,Port scan,Outside,Public
+UI_228,77.107.67.209,Port 8080,Brute force,Outside,Crowdsourced
+UI_229,174.139.75.84,Port 22,Data leak,Inside,Public
+UI_230,117.103.127.90,Port 443,Anomaly,Inside,Crowdsourced
+UI_231,41.190.191.101,Port 443,Port scan,Outside,Public
+UI_232,255.248.213.210,Port 80,Data exfile,Inside,Crowdsourced
+UI_233,224.125.119.170,Port 22,Data exfile,Inside,Public
+UI_234,50.199.154.86,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_235,4.189.42.49,Port 443,Port scan,Outside,Public
+UI_236,208.139.91.87,Port 22,Traffic spike,Outside,Crowdsourced
+UI_237,24.179.217.159,Port 21,Traffic spike,Outside,Public
+UI_238,207.44.3.127,Port 8080,Data exfile,Inside,Crowdsourced
+UI_239,28.242.57.141,Port 443,Phishing,Outside,Public
+UI_240,183.221.58.2,Port 80,Privilege escalation,Inside,Crowdsourced
+UI_241,35.79.212.156,Port 22,Data exfile,Inside,Public
+UI_242,155.129.216.211,Port 80,DDoS attack,Outside,Crowdsourced
+UI_243,225.75.11.78,Port 80,Phishing,Outside,Public
+UI_244,17.86.161.16,Port 22,Normal,None,Crowdsourced
+UI_245,214.90.64.64,Port 22,Port scan,Outside,Public
+UI_246,41.60.2.243,Port 443,Port scan,Outside,Crowdsourced
+UI_247,69.216.68.234,Port 22,Privilege escalation,Inside,Public
+UI_248,114.56.141.45,Port 21,DDoS attack,Outside,Crowdsourced
+UI_249,168.149.218.211,Port 21,Brute force,Outside,Public
+UI_250,49.178.231.202,Port 21,Traffic spike,Outside,Crowdsourced
+UI_251,145.133.9.219,Port 22,Data leak,Inside,Public
+UI_252,57.99.116.58,Port 21,Port scan,Outside,Crowdsourced
+UI_253,98.135.86.15,Port 8080,Data leak,Inside,Public
+UI_254,244.198.200.201,Port 443,DDoS attack,Outside,Crowdsourced
+UI_255,171.136.180.22,Port 21,Traffic spike,Outside,Public
+UI_256,77.172.105.60,Port 443,Anomaly,Inside,Crowdsourced
+UI_257,223.8.172.63,Port 8080,Brute force,Outside,Public
+UI_258,216.106.12.114,Port 80,Data exfile,Inside,Crowdsourced
+UI_259,42.59.255.114,Port 8080,Port scan,Outside,Public
+UI_260,102.100.25.193,Port 80,Privilege escalation,Inside,Crowdsourced
+UI_261,250.175.56.194,Port 22,Anomaly,Inside,Public
+UI_262,241.184.8.147,Port 21,Data exfile,Inside,Crowdsourced
+UI_263,174.29.223.198,Port 21,Privilege escalation,Inside,Public
+UI_264,54.12.64.128,Port 21,Brute force,Outside,Crowdsourced
+UI_265,171.183.75.217,Port 443,Data exfile,Inside,Public
+UI_266,219.114.159.28,Port 8080,Anomaly,Inside,Crowdsourced
+UI_267,69.197.176.180,Port 80,Privilege escalation,Inside,Public
+UI_268,65.85.88.113,Port 21,Anomaly,Inside,Crowdsourced
+UI_269,157.247.93.136,Port 80,Data leak,Inside,Public
+UI_270,206.136.196.43,Port 443,Phishing,Outside,Crowdsourced
+UI_271,43.63.28.121,Port 8080,Port scan,Outside,Public
+UI_272,206.21.73.219,Port 22,Brute force,Outside,Crowdsourced
+UI_273,19.3.119.87,Port 21,Traffic spike,Outside,Public
+UI_274,64.23.112.41,Port 443,DDoS attack,Outside,Crowdsourced
+UI_275,210.204.221.226,Port 21,Normal,None,Public
+UI_276,68.98.157.210,Port 21,Data leak,Inside,Crowdsourced
+UI_277,163.25.51.228,Port 443,DDoS attack,Outside,Public
+UI_278,141.255.231.241,Port 80,DDoS attack,Outside,Crowdsourced
+UI_279,217.178.103.159,Port 21,Phishing,Outside,Public
+UI_280,13.172.180.204,Port 8080,DDoS attack,Outside,Crowdsourced
+UI_281,74.17.57.200,Port 443,Privilege escalation,Inside,Public
+UI_282,250.91.43.31,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_283,116.57.89.160,Port 22,Brute force,Outside,Public
+UI_284,82.203.11.8,Port 80,DDoS attack,Outside,Crowdsourced
+UI_285,51.238.92.227,Port 22,Anomaly,Inside,Public
+UI_286,40.116.103.229,Port 8080,Normal,None,Crowdsourced
+UI_287,66.233.66.211,Port 80,Phishing,Outside,Public
+UI_288,2.252.43.93,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_289,75.72.137.78,Port 21,Brute force,Outside,Public
+UI_290,106.153.152.172,Port 443,Brute force,Outside,Crowdsourced
+UI_291,142.153.194.18,Port 443,Data leak,Inside,Public
+UI_292,175.47.210.76,Port 443,Anomaly,Inside,Crowdsourced
+UI_293,71.182.215.19,Port 21,Privilege escalation,Inside,Public
+UI_294,70.61.116.197,Port 21,Phishing,Outside,Crowdsourced
+UI_295,209.223.134.144,Port 22,Port scan,Outside,Public
+UI_296,107.95.16.58,Port 8080,DDoS attack,Outside,Crowdsourced
+UI_297,251.50.151.216,Port 22,Traffic spike,Outside,Public
+UI_298,33.35.170.47,Port 8080,Data leak,Inside,Crowdsourced
+UI_299,66.163.99.191,Port 21,Data exfile,Inside,Public
+UI_300,139.232.238.120,Port 8080,Data leak,Inside,Crowdsourced
+UI_301,105.238.7.33,Port 22,DDoS attack,Outside,Public
+UI_302,158.168.232.67,Port 21,Normal,None,Crowdsourced
+UI_303,152.2.198.208,Port 22,Data leak,Inside,Public
+UI_304,182.35.140.7,Port 8080,Data exfile,Inside,Crowdsourced
+UI_305,28.16.143.63,Port 80,Privilege escalation,Inside,Public
+UI_306,237.166.166.180,Port 80,Port scan,Outside,Crowdsourced
+UI_307,106.177.185.184,Port 80,Anomaly,Inside,Public
+UI_308,35.214.29.176,Port 8080,Port scan,Outside,Crowdsourced
+UI_309,182.181.150.65,Port 22,Data exfile,Inside,Public
+UI_310,200.93.38.83,Port 80,Normal,None,Crowdsourced
+UI_311,48.202.131.192,Port 80,Traffic spike,Outside,Public
+UI_312,94.91.40.100,Port 8080,Anomaly,Inside,Crowdsourced
+UI_313,83.214.52.91,Port 8080,Privilege escalation,Inside,Public
+UI_314,251.81.91.223,Port 21,DDoS attack,Outside,Crowdsourced
+UI_315,182.86.218.130,Port 22,Normal,None,Public
+UI_316,84.182.143.151,Port 21,Privilege escalation,Inside,Crowdsourced
+UI_317,89.60.133.183,Port 8080,Normal,None,Public
+UI_318,62.198.63.186,Port 22,Data exfile,Inside,Crowdsourced
+UI_319,217.104.135.137,Port 22,Brute force,Outside,Public
+UI_320,151.173.248.136,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_321,230.28.215.9,Port 22,Privilege escalation,Inside,Public
+UI_322,47.205.197.160,Port 21,DDoS attack,Outside,Crowdsourced
+UI_323,102.255.90.119,Port 80,Anomaly,Inside,Public
+UI_324,196.244.127.232,Port 22,Traffic spike,Outside,Crowdsourced
+UI_325,238.168.21.209,Port 21,Phishing,Outside,Public
+UI_326,248.226.244.241,Port 22,Data exfile,Inside,Crowdsourced
+UI_327,212.84.124.131,Port 22,Brute force,Outside,Public
+UI_328,120.151.158.162,Port 80,Data leak,Inside,Crowdsourced
+UI_329,140.49.217.155,Port 443,Phishing,Outside,Public
+UI_330,175.156.64.175,Port 8080,Normal,None,Crowdsourced
+UI_331,93.88.94.146,Port 22,Data leak,Inside,Public
+UI_332,208.28.152.81,Port 80,Data leak,Inside,Crowdsourced
+UI_333,131.16.107.21,Port 8080,Anomaly,Inside,Public
+UI_334,86.26.197.195,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_335,34.119.199.73,Port 8080,Anomaly,Inside,Public
+UI_336,200.158.30.114,Port 80,Phishing,Outside,Crowdsourced
+UI_337,109.74.44.151,Port 8080,Brute force,Outside,Public
+UI_338,154.25.139.162,Port 443,Anomaly,Inside,Crowdsourced
+UI_339,105.224.182.78,Port 22,Data leak,Inside,Public
+UI_340,131.83.127.224,Port 80,Data leak,Inside,Crowdsourced
+UI_341,222.46.250.61,Port 443,Phishing,Outside,Public
+UI_342,13.104.225.1,Port 8080,Data exfile,Inside,Crowdsourced
+UI_343,133.255.87.65,Port 8080,Phishing,Outside,Public
+UI_344,75.4.48.69,Port 80,Brute force,Outside,Crowdsourced
+UI_345,234.230.1.245,Port 22,Normal,None,Public
+UI_346,106.24.152.69,Port 443,Traffic spike,Outside,Crowdsourced
+UI_347,41.136.68.173,Port 80,Traffic spike,Outside,Public
+UI_348,138.146.64.115,Port 8080,Brute force,Outside,Crowdsourced
+UI_349,218.38.195.241,Port 443,Brute force,Outside,Public
+UI_350,235.107.184.92,Port 21,Data exfile,Inside,Crowdsourced
+UI_351,125.18.84.129,Port 21,Brute force,Outside,Public
+UI_352,189.76.205.119,Port 22,Normal,None,Crowdsourced
+UI_353,192.239.125.87,Port 22,Port scan,Outside,Public
+UI_354,13.206.35.87,Port 22,Normal,None,Crowdsourced
+UI_355,52.115.250.203,Port 443,Anomaly,Inside,Public
+UI_356,8.104.211.104,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_357,68.116.251.175,Port 443,Phishing,Outside,Public
+UI_358,247.234.242.20,Port 8080,Normal,None,Crowdsourced
+UI_359,5.162.240.246,Port 8080,Anomaly,Inside,Public
+UI_360,2.139.6.60,Port 21,Phishing,Outside,Crowdsourced
+UI_361,65.113.223.30,Port 22,Privilege escalation,Inside,Public
+UI_362,8.95.81.97,Port 443,Data exfile,Inside,Crowdsourced
+UI_363,142.236.251.9,Port 21,Normal,None,Public
+UI_364,72.162.246.218,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_365,12.105.91.247,Port 80,Brute force,Outside,Public
+UI_366,48.229.126.148,Port 80,Brute force,Outside,Crowdsourced
+UI_367,70.196.236.214,Port 443,Privilege escalation,Inside,Public
+UI_368,136.175.30.97,Port 22,Privilege escalation,Inside,Crowdsourced
+UI_369,192.168.75.150,Port 443,Traffic spike,Outside,Public
+UI_370,29.133.105.138,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_371,11.4.8.158,Port 443,Data leak,Inside,Public
+UI_372,108.224.112.120,Port 8080,Normal,None,Crowdsourced
+UI_373,208.230.214.16,Port 8080,Normal,None,Public
+UI_374,118.188.219.188,Port 21,Port scan,Outside,Crowdsourced
+UI_375,124.66.193.232,Port 80,Phishing,Outside,Public
+UI_376,239.61.184.84,Port 8080,Brute force,Outside,Crowdsourced
+UI_377,149.24.34.44,Port 80,Privilege escalation,Inside,Public
+UI_378,208.118.146.179,Port 443,Traffic spike,Outside,Crowdsourced
+UI_379,182.165.26.225,Port 80,DDoS attack,Outside,Public
+UI_380,72.136.214.118,Port 8080,Phishing,Outside,Crowdsourced
+UI_381,200.15.43.215,Port 21,Privilege escalation,Inside,Public
+UI_382,196.253.135.32,Port 22,Privilege escalation,Inside,Crowdsourced
+UI_383,53.216.253.223,Port 8080,Traffic spike,Outside,Public
+UI_384,194.183.219.215,Port 80,Anomaly,Inside,Crowdsourced
+UI_385,105.125.125.206,Port 443,Port scan,Outside,Public
+UI_386,149.78.86.179,Port 21,DDoS attack,Outside,Crowdsourced
+UI_387,117.100.16.16,Port 8080,Data leak,Inside,Public
+UI_388,222.202.110.33,Port 443,DDoS attack,Outside,Crowdsourced
+UI_389,202.77.166.191,Port 443,Brute force,Outside,Public
+UI_390,143.85.99.11,Port 21,Brute force,Outside,Crowdsourced
+UI_391,198.111.2.104,Port 8080,Normal,None,Public
+UI_392,102.200.130.247,Port 22,Data leak,Inside,Crowdsourced
+UI_393,154.52.19.35,Port 8080,Phishing,Outside,Public
+UI_394,245.145.175.233,Port 80,Normal,None,Crowdsourced
+UI_395,234.215.172.166,Port 22,Brute force,Outside,Public
+UI_396,149.52.105.248,Port 80,Port scan,Outside,Crowdsourced
+UI_397,53.199.134.98,Port 443,Privilege escalation,Inside,Public
+UI_398,85.233.194.61,Port 443,Anomaly,Inside,Crowdsourced
+UI_399,212.25.42.232,Port 22,Data exfile,Inside,Public
+UI_400,179.63.94.40,Port 22,Data exfile,Inside,Crowdsourced
+UI_401,208.26.4.164,Port 21,Phishing,Outside,Public
+UI_402,67.101.48.20,Port 443,Traffic spike,Outside,Crowdsourced
+UI_403,183.233.149.131,Port 443,Data leak,Inside,Public
+UI_404,38.63.110.56,Port 22,Brute force,Outside,Crowdsourced
+UI_405,163.152.191.145,Port 21,Traffic spike,Outside,Public
+UI_406,193.193.30.163,Port 80,Brute force,Outside,Crowdsourced
+UI_407,188.6.62.171,Port 22,Normal,None,Public
+UI_408,1.107.167.181,Port 21,Data leak,Inside,Crowdsourced
+UI_409,194.23.248.125,Port 22,Data exfile,Inside,Public
+UI_410,203.153.148.216,Port 443,Traffic spike,Outside,Crowdsourced
+UI_411,231.31.118.171,Port 80,DDoS attack,Outside,Public
+UI_412,216.120.206.74,Port 22,Anomaly,Inside,Crowdsourced
+UI_413,64.21.15.126,Port 22,Data leak,Inside,Public
+UI_414,103.89.126.253,Port 22,Port scan,Outside,Crowdsourced
+UI_415,41.63.206.172,Port 443,Normal,None,Public
+UI_416,50.22.60.95,Port 443,Traffic spike,Outside,Crowdsourced
+UI_417,148.31.128.165,Port 21,Data exfile,Inside,Public
+UI_418,41.52.255.193,Port 21,Anomaly,Inside,Crowdsourced
+UI_419,175.142.215.218,Port 21,Normal,None,Public
+UI_420,23.153.209.101,Port 80,Traffic spike,Outside,Crowdsourced
+UI_421,178.15.161.113,Port 8080,Data leak,Inside,Public
+UI_422,21.73.63.232,Port 80,Brute force,Outside,Crowdsourced
+UI_423,116.92.207.81,Port 80,DDoS attack,Outside,Public
+UI_424,111.135.76.23,Port 8080,Privilege escalation,Inside,Crowdsourced
+UI_425,204.246.182.56,Port 8080,DDoS attack,Outside,Public
+UI_426,138.24.221.226,Port 80,Brute force,Outside,Crowdsourced
+UI_427,85.252.61.209,Port 443,Data leak,Inside,Public
+UI_428,239.141.88.51,Port 80,Anomaly,Inside,Crowdsourced
+UI_429,33.192.96.17,Port 443,Traffic spike,Outside,Public
+UI_430,182.129.4.195,Port 8080,Normal,None,Crowdsourced
+UI_431,193.207.106.23,Port 21,Phishing,Outside,Public
+UI_432,151.94.84.197,Port 80,Data exfile,Inside,Crowdsourced
+UI_433,44.225.200.74,Port 80,Data leak,Inside,Public
+UI_434,140.145.108.234,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_435,24.202.250.180,Port 8080,Phishing,Outside,Public
+UI_436,208.99.177.149,Port 80,Data exfile,Inside,Crowdsourced
+UI_437,64.169.67.87,Port 22,Traffic spike,Outside,Public
+UI_438,249.136.150.220,Port 8080,Port scan,Outside,Crowdsourced
+UI_439,45.167.101.251,Port 80,DDoS attack,Outside,Public
+UI_440,47.5.142.226,Port 21,DDoS attack,Outside,Crowdsourced
+UI_441,213.85.142.179,Port 443,Normal,None,Public
+UI_442,99.37.219.46,Port 443,Data leak,Inside,Crowdsourced
+UI_443,76.80.235.210,Port 443,Privilege escalation,Inside,Public
+UI_444,42.145.114.247,Port 443,Privilege escalation,Inside,Crowdsourced
+UI_445,59.189.164.45,Port 21,Phishing,Outside,Public
+UI_446,66.233.63.245,Port 443,Normal,None,Crowdsourced
+UI_447,121.191.44.84,Port 443,Data leak,Inside,Public
+UI_448,166.75.56.239,Port 8080,Port scan,Outside,Crowdsourced
+UI_449,154.75.100.147,Port 80,DDoS attack,Outside,Public
+UI_450,129.178.70.197,Port 22,Normal,None,Crowdsourced
+UI_451,192.204.254.32,Port 8080,DDoS attack,Outside,Public
+UI_452,227.21.49.145,Port 443,Data exfile,Inside,Crowdsourced
+UI_453,58.99.136.18,Port 22,Phishing,Outside,Public
+UI_454,117.150.177.27,Port 22,Brute force,Outside,Crowdsourced
+UI_455,76.122.114.40,Port 80,Brute force,Outside,Public
+UI_456,132.58.226.161,Port 443,Port scan,Outside,Crowdsourced
+UI_457,69.109.213.198,Port 22,Phishing,Outside,Public
+UI_458,90.193.226.34,Port 443,Brute force,Outside,Crowdsourced
+UI_459,169.240.254.222,Port 22,Anomaly,Inside,Public
+UI_460,133.78.129.233,Port 22,Traffic spike,Outside,Crowdsourced
+UI_461,75.86.126.13,Port 8080,Data exfile,Inside,Public
+UI_462,95.138.252.8,Port 443,Phishing,Outside,Crowdsourced
+UI_463,225.21.200.220,Port 22,Privilege escalation,Inside,Public
+UI_464,25.124.231.253,Port 22,Data leak,Inside,Crowdsourced
+UI_465,195.21.191.31,Port 443,Traffic spike,Outside,Public
+UI_466,198.47.253.184,Port 21,Traffic spike,Outside,Crowdsourced
+UI_467,175.210.95.230,Port 21,Anomaly,Inside,Public
+UI_468,227.194.207.211,Port 8080,Traffic spike,Outside,Crowdsourced
+UI_469,29.30.35.143,Port 443,Anomaly,Inside,Public
+UI_470,157.182.64.170,Port 21,Privilege escalation,Inside,Crowdsourced
+UI_471,10.100.254.91,Port 8080,Traffic spike,Outside,Public
+UI_472,136.152.149.40,Port 80,Data leak,Inside,Crowdsourced
+UI_473,69.152.130.88,Port 443,Brute force,Outside,Public
+UI_474,155.216.92.95,Port 21,Traffic spike,Outside,Crowdsourced
+UI_475,67.144.226.213,Port 443,Normal,None,Public
+UI_476,35.32.89.97,Port 22,Anomaly,Inside,Crowdsourced
+UI_477,144.176.214.184,Port 80,DDoS attack,Outside,Public
+UI_478,133.71.194.26,Port 8080,Anomaly,Inside,Crowdsourced
+UI_479,16.110.194.73,Port 21,Phishing,Outside,Public
+UI_480,123.247.10.194,Port 22,Phishing,Outside,Crowdsourced
+UI_481,223.26.175.36,Port 22,Data exfile,Inside,Public
+UI_482,162.109.4.238,Port 22,Brute force,Outside,Crowdsourced
+UI_483,26.225.184.249,Port 8080,Data exfile,Inside,Public
+UI_484,49.191.211.108,Port 443,Traffic spike,Outside,Crowdsourced
+UI_485,126.24.127.29,Port 443,DDoS attack,Outside,Public
